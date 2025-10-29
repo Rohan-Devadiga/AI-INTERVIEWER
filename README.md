@@ -40,7 +40,7 @@ Follow the steps below to set up and run the project on your local machine.
 
 ### 1. Clone the Repository
 <```bash
-git clone https://github.com/your-username/ai-interviewer.git<br>
+git clone (https://github.com/Rohan-Devadiga/AI-INTERVIEWER.git)<br>
 cd ai-interviewer 
 
 ### 2. Create a Virtual Environment (Recommended)
