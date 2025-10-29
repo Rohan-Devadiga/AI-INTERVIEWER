@@ -1,0 +1,6 @@
+sounddevice
+numpy
+google-generativeai
+deepgram-sdk
+reportlab
+dotenv
