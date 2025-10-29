@@ -39,9 +39,9 @@ It offers an interactive and adaptive experience, allowing users to build confid
 Follow the steps below to set up and run the project on your local machine.
 
 ### 1. Clone the Repository
-<!-- ```bash
+<```bash
 git clone https://github.com/your-username/ai-interviewer.git
-cd ai-interviewer -->
+cd ai-interviewer 
 
 ### 2. Create a Virtual Environment (Recommended)
 python -m venv venv
