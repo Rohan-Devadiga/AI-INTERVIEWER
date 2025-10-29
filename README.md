@@ -40,17 +40,17 @@ Follow the steps below to set up and run the project on your local machine.
 
 ### 1. Clone the Repository
 <```bash
-git clone https://github.com/your-username/ai-interviewer.git
+git clone https://github.com/your-username/ai-interviewer.git<br>
 cd ai-interviewer 
 
 ### 2. Create a Virtual Environment (Recommended)
 python -m venv venv
 
 ### 3. Activate the Virtual Environment
-On Windows:
+On Windows:<br>
 venv\Scripts\activate
 
-On macOS/Linux:
+On macOS/Linux:<br>
 source venv/bin/activate
 
 ### 4. Install Dependencies
