@@ -56,5 +56,12 @@ source venv/bin/activate
 ### 4. Install Dependencies
 pip install -r requirements.txt
 
-### 5. Run the Demo
+### 5. Add Your API Key<br>
+
+Before running the project, you must add your own API key.<br>
+Create a file named .env in the root directory and add the following line:<br>
+KEY="GEMINI_API_KEY"
+STTKEY="DEEPGRAM_API_KEY"
+
+### 6. Run the Demo
 python demo.py
