@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 Before running the project, you must add your own API key.<br>
 Create a file named .env in the root directory and add the following line:<br>
-KEY="GEMINI_API_KEY"
+KEY="GEMINI_API_KEY"<br>
 STTKEY="DEEPGRAM_API_KEY"
 
 ### 6. Run the Demo
